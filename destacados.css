@@ -282,6 +282,11 @@ footer > p{
         .center{
             text-align: center;
         }
+
+            .container-img-item{
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+        }
     }
 
     
