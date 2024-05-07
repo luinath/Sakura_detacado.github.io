@@ -206,6 +206,10 @@ footer > p{
             grid-template-columns: repeat(2,1fr);
             grid-template-rows: 400px;
         }
+
+        body{
+            overflow-x: hidden;
+        }
     
         #menu-checkbox{
             display: none;
