@@ -200,6 +200,12 @@ footer > p{
             gap: 5px;
             margin: auto;
         }
+
+            .container-img-item{
+            display: grid;
+            grid-template-columns: repeat(2,1fr);
+            grid-template-rows: 400px;
+        }
     
         #menu-checkbox{
             display: none;
